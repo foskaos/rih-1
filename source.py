@@ -26,10 +26,20 @@ def init_db():
         created_dt default current_timestamp
        )
         """
-
+        down_load_table_sql = """
+        CREATE TABLE episode_files (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        filename TEXT,
+        episode_id INTEGER NOT NULL,
+        downloaded_dt default CURRENT_TIMESTAMP,
+        FOREIGN KEY(episode_id) REFERENCES episodes(id)
+        )
+        """
         cursor.execute(ep_table_sql)
         conn.commit()
-        conn.close
+        cursor.execute(down_load_table_sql)
+        conn.commit()
+        conn.close()
 
 
 def get_db_connection():
@@ -105,15 +115,3 @@ class EpisodeParser:
         )
 
 
-rss_url = "https://feeds.megaphone.fm/GLT4787413333"
-response = httpx.get(rss_url)
-
-
-if response.status_code == 200:
-    rss_feed = response.text
-    # parse the RSS feed using xml.etree.ElementTree
-
-    root = ElementTree.fromstring(rss_feed)
-    episodes_xml = root.findall("./channel/item")
-    parser = EpisodeParser()
-    ep_dicts = [parser.parse(episode) for episode in episodes_xml]
