@@ -1,6 +1,6 @@
 # The Rest Is History Club — 2026
 
-90 episodes in 26 groups (16 series).
+78 episodes in 24 groups (14 series).
 
 ## Wagner: LIVE at the Royal Albert Hall
 *Standalone episode · 1 main · from 01 Jan 2026*
@@ -90,32 +90,12 @@
 - Tue 26 May · bonus · Eleanor of Aquitaine: Lioness of England
 - Tue 09 Jun · bonus · Isabella of France: The First Femme Fatale
 
-## National Anthems (World Cup Special)
-*Series · 6 main · from 07 Jun 2026*
-
-- Sun 07 Jun · main  · #677 USA: The Star-Spangled Banner (Part 1)
-- Sun 07 Jun · main  · #678 Britain: God Save the King (Part 2)
-- Sun 07 Jun · main  · #679 Germany: The Song Hitler Stole (Part 3)
-- Sun 07 Jun · main  · #680 The Netherlands: The Revolt that Made The Modern World (Part 4)
-- Sun 07 Jun · main  · #681 Brazil: The Emperor’s Anthem (Part 5)
-- Sun 07 Jun · main  · #682 South Africa: Mandela and the Death of Apartheid (Part 6)
-
 ## History of the World Cup
 *Members' mini-series · 3 bonus · from 16 Jun 2026*
 
 - Tue 16 Jun · bonus · The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup
 - Tue 23 Jun · bonus · Brazilian Dictators and the Beautiful Game | History of the World Cup
 - Tue 30 Jun · bonus · The Junta's Tournament: A 1978 Nightmare in Argentina | History of the World Cup
-
-## The Founding Fathers
-*Series · 4 main, 2 bonus · from 28 Jun 2026*
-
-- Sun 28 Jun · main  · #683 Washington: Hero of the Revolution (Part 1)
-- Sun 28 Jun · main  · #684 Franklin: Revenge of the American Genius (Part 2)
-- Sun 28 Jun · main  · #685 Hamilton: Duel to the Death (Part 3)
-- Sun 28 Jun · main  · #686 Jefferson: The Betrayal of Liberty (Part 4)
-- Tue 07 Jul · bonus · Why America Really Declared Independence with Ken Burns
-- Thu 09 Jul · bonus · What The Founding Fathers Got Wrong with Conan O'Brien
 
 ## The Odyssey
 *Series · 2 main, 2 bonus · from 12 Jul 2026*
