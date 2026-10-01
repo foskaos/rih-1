@@ -1,0 +1,1476 @@
+[
+  {
+    "name": "Wagner: LIVE at the Royal Albert Hall",
+    "kind": "standalone",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "Wagner: LIVE at the Royal Albert Hall",
+        "number": 631,
+        "part": null,
+        "published": "2026-01-01T00:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxODQxNzIyMiIsInUiOiI4NjMzNDgiLCJkIjoiMTc2NzIyNjIxNSIsImsiOjI2N318N2I2OThlNWU2YWUxYzc4NDJiYTEyOWUxODUwZjdkNmIxZDJkOGUwNTdhZjJkZWQ2MzA0NTliNzdhMGM2NWNmNg.mp3",
+        "guid": "1958be3e-df47-11f0-95e3-efdd4b45124e"
+      }
+    ]
+  },
+  {
+    "name": "Joan of Arc",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "Joan of Arc: Warrior Maid (Part 1)",
+        "number": 632,
+        "part": 1,
+        "published": "2026-01-05T00:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxODQ4OTI2MSIsInUiOiI4NjMzNDgiLCJkIjoiMTc2NzU3MTgxOCIsImsiOjI2N318NjZhMTFjZTJmMDRkMWU1YTE0ZDE5NzVhYTk3MDI5MmI3YjlhNDc3YmZiYWMxNGE4ODZlOTY1ZTYwMDY5ZDlkYQ.mp3",
+        "guid": "8f7ebf2e-dfeb-11f0-adc5-3396be354b84"
+      },
+      {
+        "role": "main",
+        "title": "Joan of Arc: Saviour of France (Part 2)",
+        "number": 633,
+        "part": 2,
+        "published": "2026-01-05T00:10:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxODQ4OTI2MCIsInUiOiI4NjMzNDgiLCJkIjoiMTc2NzU3MTgxOCIsImsiOjI2N318OTQwY2VkMWRkNmIyZjJmN2RiM2M0N2Q3ZWMxYmE5ZDgxZjYwODI4OWExNDVmOTk0N2NlMzJmZWJkYzk3OTRjNg.mp3",
+        "guid": "3e379a72-dfec-11f0-a854-9b47c2927e28"
+      },
+      {
+        "role": "main",
+        "title": "Joan of Arc: Heroine in Chains (Part 3)",
+        "number": 634,
+        "part": 3,
+        "published": "2026-01-05T00:15:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxODQ4OTU2NCIsInUiOiI4NjMzNDgiLCJkIjoiMTc2NzU3MjEyMCIsImsiOjI2N318ZjU3YzU3NGE2MDBiZDllN2JlMDZkYTI1MjkzZDg1OTkyYWIxZjFhZjYzNzU1ZWJkYjg4MTkzMDM2YmZmMTE3OQ.mp3",
+        "guid": "89fab7aa-dfec-11f0-bcba-e73c739ffbf1"
+      },
+      {
+        "role": "main",
+        "title": "Joan of Arc: For Fear of the Flames (Part 4)",
+        "number": 635,
+        "part": 4,
+        "published": "2026-01-05T00:20:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxODQ4OTYyMSIsInUiOiI4NjMzNDgiLCJkIjoiMTc2NzU3MjQyMCIsImsiOjI2N318YmM4MWZkZGIxOWYzNzFhNmM3MjM2OTU2NjA2NmJhZDlkYjQ3MDEwMDg2OGQ4ODczOWQwZTJiNzQxZjFjM2MzMA.mp3",
+        "guid": "ee150470-dfec-11f0-9e8e-e3d3bf33f720"
+      },
+      {
+        "role": "bonus",
+        "title": "RIHC: Joan of Arc's Afterlife, Witchcraft, and Angels",
+        "number": null,
+        "part": null,
+        "published": "2026-01-14T00:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxODY1MjY2NyIsInUiOiI4NjMzNDgiLCJkIjoiMTc2ODM0OTExNSIsImsiOjI2N318MGRiYTU1YjIwYWUwZTIwNjgyYWY3ZmMwZmNhYTBmYjkxNjA2ZjhjMjAyM2E4YzU3YTdmZWI5ZWFjNzNhYTcyZg.mp3",
+        "guid": "2a709e72-ecb6-11f0-b6e4-87436bc6cef7"
+      }
+    ]
+  },
+  {
+    "name": "RIHC: The Discovery of Fire, Ancient Cannibals, and British Neanderthals",
+    "kind": "bonus",
+    "episodes": [
+      {
+        "role": "bonus",
+        "title": "RIHC: The Discovery of Fire, Ancient Cannibals, and British Neanderthals",
+        "number": null,
+        "part": null,
+        "published": "2026-01-07T00:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxODUzMDYxOCIsInUiOiI4NjMzNDgiLCJkIjoiMTc2Nzc0NDMxNiIsImsiOjI2N318YzlkMjdiYjBlYTQ0NjM1NjgzMjNlYjc4ZDZjMTczZmE1ZDBhYWUwYTE4ZDkxM2ZkMTY2NjM2NWVmZmU5MGU1Mw.mp3",
+        "guid": "c7edf684-eb0f-11f0-907b-03db29f0a273"
+      }
+    ]
+  },
+  {
+    "name": "Revolution in Iran",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "Revolution in Iran: Fall of the Shah (Part 1)",
+        "number": 636,
+        "part": 1,
+        "published": "2026-01-19T00:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxODcwNzYyNSIsInUiOiI4NjMzNDgiLCJkIjoiMTc2ODc4MTExMyIsImsiOjI2N318YTdkNDY2MGE1OTBjNDZjYzg3ZTE1MTQ0NDk4NzViOTA3MDU3YzA3MmE1ZDI2N2U4MzUyMWNlYmJkN2IxZmJlYg.mp3",
+        "guid": "2c64c40c-f124-11f0-bd10-2bb339c0cae5"
+      },
+      {
+        "role": "main",
+        "title": "Revolution in Iran: Rise of the Ayatollah (Part 2)",
+        "number": 637,
+        "part": 2,
+        "published": "2026-01-19T00:10:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxODcwNzgyMSIsInUiOiI4NjMzNDgiLCJkIjoiMTc2ODc4MTcxOCIsImsiOjI2N318MGI5MzgwYTI2M2ViYjMyYTY0MDRkMjYxMTY5MWYyZDk5MzZiYTg2MGI5YzlkNGYyYTMwYzFkNjUzMzU2MTAwMQ.mp3",
+        "guid": "fa3a9660-f212-11f0-b143-9b8513509b0b"
+      },
+      {
+        "role": "main",
+        "title": "Revolution in Iran: The Hostage Crisis (Part 3)",
+        "number": 638,
+        "part": 3,
+        "published": "2026-01-19T00:15:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxODcwNzk0MSIsInUiOiI4NjMzNDgiLCJkIjoiMTc2ODc4MjAxNiIsImsiOjI2N318NGE1N2YzZDZmZWI5OTZlNzNkZWMxNGUwZjA5MWE1MTFlMWRiZDE2YzA4MDFlY2NjZDhkMTViYWQzZDQ2Njc0MA.mp3",
+        "guid": "68cfb93e-f23b-11f0-94b2-a72c2e23116f"
+      },
+      {
+        "role": "main",
+        "title": "Revolution in Iran: Death in the Desert (Part 4)",
+        "number": 639,
+        "part": 4,
+        "published": "2026-01-19T00:20:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxODcwNzk0MCIsInUiOiI4NjMzNDgiLCJkIjoiMTc2ODc4MjAxNiIsImsiOjI2N318NWUwNDFiZGNlMmUzZDg4ZDAzNDU4NWYyNzVjZmE2MWIzOTI5NmM1Y2ZmY2ZlOGRkNTNiZjRmMzc3MDgwNTIzMg.mp3",
+        "guid": "91ddf4bc-f23b-11f0-9cfb-5fd921645d0c"
+      },
+      {
+        "role": "bonus",
+        "title": "RIHC: Ancient Iran, Cyrus the Great, and Persian Nationalism",
+        "number": null,
+        "part": null,
+        "published": "2026-01-28T00:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxODgxMzI3NyIsInUiOiI4NjMzNDgiLCJkIjoiMTc2OTU1ODcxNCIsImsiOjI2N318YmFhYTE3OTM5Mjk2YTU4Yjc4ODkzNTU2ZTI2YjBiNDk1ZGIzNjEzNmMyYmM0ZjI1OTE2OWRhYWI2NDQyYTU1Mg.mp3",
+        "guid": "be834ece-f874-11f0-a460-4be0423c63d2"
+      }
+    ]
+  },
+  {
+    "name": "RIHC: The British Empire, Tudor Lovers, and War Poetry",
+    "kind": "bonus",
+    "episodes": [
+      {
+        "role": "bonus",
+        "title": "RIHC: The British Empire, Tudor Lovers, and War Poetry",
+        "number": null,
+        "part": null,
+        "published": "2026-01-21T00:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxODczMDgyOSIsInUiOiI4NjMzNDgiLCJkIjoiMTc2ODk1MzkxNyIsImsiOjI2N318YTZiN2EwYWE1YzIzZDNiZjAyYzc3Y2IyMTczNDA2MzUzMmViODlhZTdmOTM5ZTgxM2NlM2EyOTVkYzgzNGU5MQ.mp3",
+        "guid": "3e6e78d0-f612-11f0-a391-5feaba8434ca"
+      }
+    ]
+  },
+  {
+    "name": "Rome’s Greatest Enemy",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "Rome’s Greatest Enemy: Carthage at the Gates (Part 1)",
+        "number": 640,
+        "part": 1,
+        "published": "2026-02-02T00:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxODg2ODA3MSIsInUiOiI4NjMzNDgiLCJkIjoiMTc2OTk5MTAxNCIsImsiOjI2N318NjJiOGFiZDNmOGRlMzExMWRmYWRhN2UwZWJhY2IyZTI1ZmUwZjg2ZWJhZGE5NmYzNmViOTliZjVlMjg0M2MyNQ.mp3",
+        "guid": "f5d732dc-fb71-11f0-9f0a-1f7df103d181"
+      },
+      {
+        "role": "main",
+        "title": "Rome’s Greatest Enemy: Hannibal’s Nemesis (Part 2)",
+        "number": 641,
+        "part": 2,
+        "published": "2026-02-02T00:10:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxODg2ODA3MCIsInUiOiI4NjMzNDgiLCJkIjoiMTc2OTk5MTAxNCIsImsiOjI2N318MGE2YTRhMTU5MWMwNWYxYzg1Y2JmZTc3NGE5OWE5N2E4ZDQ1OTNkYmIwOTQ5ZTE0ZDYyZjhkNDVjZTdhOWE5YQ.mp3",
+        "guid": "2bcf01da-fb72-11f0-9a0b-5f68efc806e6"
+      },
+      {
+        "role": "main",
+        "title": "Rome’s Greatest Enemy: Bloodbath in Africa (Part 3)",
+        "number": 642,
+        "part": 3,
+        "published": "2026-02-02T00:15:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxODg2ODI0MiIsInUiOiI4NjMzNDgiLCJkIjoiMTc2OTk5MTMxNiIsImsiOjI2N318ZDRhNGJmYWFkZjVjNTUzNjU2NThkMTk4YzY1MGNhZDU5OWIwOWUxMDg2N2VlOTVhMjEzNzE1NGQxMmFhYmRiYQ.mp3",
+        "guid": "665f89d2-fb72-11f0-9260-3398e16c38f2"
+      },
+      {
+        "role": "main",
+        "title": "Rome’s Greatest Enemy: Carthage Destroyed (Part 4)",
+        "number": 643,
+        "part": 4,
+        "published": "2026-02-02T00:20:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxODg2ODM3OCIsInUiOiI4NjMzNDgiLCJkIjoiMTc2OTk5MTYxNiIsImsiOjI2N318NmMxODJlMzNkZmFmNmU4YzEwZTBjOGRlMjVkMzgzN2U5ZTNkZTJlYzQwZTEwMGU2NjYzOWQ1YjI3YzcyMWM3NQ.mp3",
+        "guid": "a92f81d6-fb72-11f0-8ce3-63324d0e2c13"
+      }
+    ]
+  },
+  {
+    "name": "Greatest Paintings",
+    "kind": "bonus-series",
+    "episodes": [
+      {
+        "role": "bonus",
+        "title": "Greatest Paintings: Dawn of the Dutch Golden Age - The Arnolfini Portrait | FULL EPISODE",
+        "number": null,
+        "part": null,
+        "published": "2026-02-04T00:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxODg5MzcwOCIsInUiOiI4NjMzNDgiLCJkIjoiMTc3MDE2MzUxNiIsImsiOjI2N318Y2MzNWEyZmU5MjZjMjU0NTVlNjZmNGZiOGI4NGFlMzg1MzQxOThkZTQ3NDdjNTFhNTE2OWUxMjcwZGEzZjVjYg.mp3",
+        "guid": "1b01d950-0044-11f1-b5a7-d72383acbca0"
+      },
+      {
+        "role": "bonus",
+        "title": "Greatest Paintings: The Ghost of Spain – Velázquez’s Las Meninas | FULL EPISODE",
+        "number": null,
+        "part": null,
+        "published": "2026-02-11T00:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxODk4NjY3NCIsInUiOiI4NjMzNDgiLCJkIjoiMTc3MDc2ODMxNiIsImsiOjI2N318NjgxNjAwNzE0ODExY2EwZGMxNTg0ZDE0MWMzMzU3MDQwMDcyMzQxNjJiNDk2ODc3MDMxOTVkODI1NWQ5YjUyMQ.mp3",
+        "guid": "e4c25ce8-05d9-11f1-aa9c-dbd6e0913d3d"
+      },
+      {
+        "role": "bonus",
+        "title": "Greatest Paintings: Age of Enlightenment - Raeburn's Skating Minister | FULL EPISODE",
+        "number": null,
+        "part": null,
+        "published": "2026-02-18T00:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTA3NDc2NyIsInUiOiI4NjMzNDgiLCJkIjoiMTc3MTM3MzExOCIsImsiOjI2N318ODE2YjBhZTk3ZmQ0YjIzZmYxMTI1YWVjZDAxODcyOWQ1ZTNhYTIzMTdlNDZhMWRjMmRjOWVhN2ZkN2RmYTNlNw.mp3",
+        "guid": "55b28258-0b47-11f1-850a-8b7beb4be8ee"
+      },
+      {
+        "role": "bonus",
+        "title": "Greatest Paintings: The French Revolution - Millet's Angelus | FULL EPISODE",
+        "number": null,
+        "part": null,
+        "published": "2026-02-25T00:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTE1Nzg4NiIsInUiOiI4NjMzNDgiLCJkIjoiMTc3MTk3ODA0NyIsImsiOjI2N318MDFiYmQ3YmEyZmI1N2MxNGU3YTAzNGRjMjhmY2I4NjU4NDYyNWZlOWI3ZTdkZmRjYjUyZTdmNzc5MDE5NmExMg.mp3",
+        "guid": "4a9a089e-10b7-11f1-b658-b7bc30372d5c"
+      }
+    ]
+  },
+  {
+    "name": "The Fall of the Incas",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "The Fall of the Incas: Empire of Gold (Part 1)",
+        "number": 644,
+        "part": 1,
+        "published": "2026-02-16T00:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTA0Njk1MCIsInUiOiI4NjMzNDgiLCJkIjoiMTc3MTIwMDYxNiIsImsiOjI2N318MjBkZWQxMDRkYTI1MjE5M2I1MDQ0YzExYjhiM2E1N2E4NGFjNzM2MDE0NjQyZWFiZTUxZjY4NWE4NWIyZDYyMg.mp3",
+        "guid": "fd352208-02b7-11f1-9eb0-330cd98731bd"
+      },
+      {
+        "role": "main",
+        "title": "The Fall of the Incas: Massacre in the Andes (Part 2)",
+        "number": 645,
+        "part": 2,
+        "published": "2026-02-16T00:10:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTA0Njk0OSIsInUiOiI4NjMzNDgiLCJkIjoiMTc3MTIwMDYxNiIsImsiOjI2N318YzAzYjQ1ZWMwOThjZTI5NzJmYmJmNGVjMDg2ZTIxZjY1MzkyNzVlMmFmMzRiZTkyMzBjNTFlODM2MjNmYWIyZA.mp3",
+        "guid": "23a524ec-02b8-11f1-9e26-d72b04c9639a"
+      },
+      {
+        "role": "main",
+        "title": "The Fall of the Incas: Death to the Emperor (Part 3)",
+        "number": 646,
+        "part": 3,
+        "published": "2026-02-16T00:15:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTA0NzE2OSIsInUiOiI4NjMzNDgiLCJkIjoiMTc3MTIwMDkyNCIsImsiOjI2N318ZGQ2YjIzODE1ZWUyMzAwYWEzNTkxM2Y4YjY5ZTg1YTI5ZjczMWMxMDk3YTg4OWI3OTkzNTMyYWViNTA5NDdmYQ.mp3",
+        "guid": "527b634e-02b8-11f1-b723-f7db7373edc2"
+      },
+      {
+        "role": "main",
+        "title": "The Fall of the Incas: The King in the North (Part 4)",
+        "number": 647,
+        "part": 4,
+        "published": "2026-02-16T00:20:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTA0NzI2NCIsInUiOiI4NjMzNDgiLCJkIjoiMTc3MTIwMTIxNiIsImsiOjI2N318ODA4NThhNDc3NDU1Y2M1ZTViYzgzYTYzNGJhOTgyNDQwNzY2ZjliN2I2ODkwZGFhN2RiNTBhYWRlNzg5YjYxMw.mp3",
+        "guid": "7348b36a-02b8-11f1-9d4a-6fa38a86ad55"
+      },
+      {
+        "role": "main",
+        "title": "The Fall of the Incas: Battle for the Sacred City (Part 5)",
+        "number": 648,
+        "part": 5,
+        "published": "2026-02-16T00:25:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTA0NzI2NyIsInUiOiI4NjMzNDgiLCJkIjoiMTc3MTIwMTUxNyIsImsiOjI2N318MzczZDk5OWM5ZmE2OWM2YmEwZGExZDI2Yjc5MDMzOGY3MTkyYjc3MzQ2MTNkZjZhOTViY2ZhODg2YjA5MDBlOQ.mp3",
+        "guid": "89b1eb80-02b8-11f1-889e-5f1fd23f8c5e"
+      },
+      {
+        "role": "main",
+        "title": "The Fall of the Incas: The Last Emperor (Part 6)",
+        "number": 649,
+        "part": 6,
+        "published": "2026-02-16T00:30:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTA0NzI3MiIsInUiOiI4NjMzNDgiLCJkIjoiMTc3MTIwMTgyNyIsImsiOjI2N318OWE5YTExNDQzZGYwMzYzMTc0MDA4YmRiYmY4MTExM2NiNWMwZDJkZjA5ZDhhZTEwOTk2MDJiNTE0NTZkZDU2NQ.mp3",
+        "guid": "a0b56e7e-02b8-11f1-b339-4b2618193150"
+      }
+    ]
+  },
+  {
+    "name": "RIHC: Resisting the Nazis, Evading Hitler, and Traitorous Informers",
+    "kind": "bonus",
+    "episodes": [
+      {
+        "role": "bonus",
+        "title": "RIHC: Resisting the Nazis, Evading Hitler, and Traitorous Informers",
+        "number": null,
+        "part": null,
+        "published": "2026-03-04T00:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTI1NTAxMSIsInUiOiI4NjMzNDgiLCJkIjoiMTc3MjU4Mjg0OSIsImsiOjI2N318ZGMxNzgwYTk5NWE4YmQ0MmE3ZGMyZjFhMzQ4NzhhZTQ1OWRjNzVkOGI2YzZiNDg5YTkyMjMxNWVhY2EwN2VhMw.mp3",
+        "guid": "342f4b48-1632-11f1-9540-47ca44a20278"
+      }
+    ]
+  },
+  {
+    "name": "London’s Golden Age",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "London’s Golden Age: The Mad Life of Dr Johnson (Part 1)",
+        "number": 650,
+        "part": 1,
+        "published": "2026-03-09T00:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTMxMDk1MyIsInUiOiI4NjMzNDgiLCJkIjoiMTc3MzAxNDg0NyIsImsiOjI2N318MzRiZDY3Nzc5YTdjNDRkNGNlYWVhYWE0M2JmOGVmNmZiYzJiNTIzZTNjNDI2MDY3YjcxYTk1YmU0MWZiMWUyMQ.mp3",
+        "guid": "5dc53e90-170e-11f1-8409-2b82022a6942"
+      },
+      {
+        "role": "main",
+        "title": "London’s Golden Age: Sex and Scandal in Georgian Britain (Part 2)",
+        "number": 651,
+        "part": 2,
+        "published": "2026-03-09T00:10:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTMxMDk1NSIsInUiOiI4NjMzNDgiLCJkIjoiMTc3MzAxNTE1MiIsImsiOjI2N318YmFiYzZlMzA5YWZjZjcxNWU5NWZkNGNiMTQ4OWQ3MGE5ZWRmYTRlNzg4MzY0ZjM5OWRkZWM3NjAxOGExNGIzMA.mp3",
+        "guid": "bab49768-170e-11f1-9e16-bf990221f1bd"
+      },
+      {
+        "role": "main",
+        "title": "London’s Golden Age: The Ghosts of Culloden (Part 3)",
+        "number": 652,
+        "part": 3,
+        "published": "2026-03-09T00:15:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTMxMTI1NCIsInUiOiI4NjMzNDgiLCJkIjoiMTc3MzAxNTQ2MCIsImsiOjI2N318ZTkyOGIyNTJiOWQ5YmEwNzczZjE3OGE5NDdjZDRmMTc4NTNiMzM5MDA4ZDZhNWZhOTA2ZDhjNTU2ZGRmMWU5MQ.mp3",
+        "guid": "fa13cdac-170e-11f1-8778-5f16a18fe31b"
+      },
+      {
+        "role": "main",
+        "title": "London’s Golden Age: The Shadow of the Madhouse (Part 4)",
+        "number": 653,
+        "part": 4,
+        "published": "2026-03-09T00:20:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTMxMTI1NSIsInUiOiI4NjMzNDgiLCJkIjoiMTc3MzAxNTc0OSIsImsiOjI2N318ZWFkNjBhYjE5YThmZmRmZjEwMDhjNTBlNjFjMjdjY2QxNDAyN2M1OTc3ZWJkYmE2NDc0NzI0MjVjOTA5ZjVjYw.mp3",
+        "guid": "2bbaaa7e-170f-11f1-b600-474fda9f9763"
+      },
+      {
+        "role": "bonus",
+        "title": "James Boswell’s Secret Life",
+        "number": null,
+        "part": null,
+        "published": "2026-03-18T00:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTQyMDIwNCIsInUiOiI4NjMzNDgiLCJkIjoiMTc3Mzc5MjQ0OSIsImsiOjI2N318MWZjNjUwN2FkMWZkNDQ5NTQwYzg4ODJiOTY0NjI2NTI1ZWZiYjg4ZTgwODIxNWExOWU5ZDI2Yzc2ZDU0NDliMw.mp3",
+        "guid": "39aa6d20-1e23-11f1-a7af-b779e8e82f57"
+      }
+    ]
+  },
+  {
+    "name": "RIHC: The Odyssey, Ancient Greek Wars, and Ottoman Invasions",
+    "kind": "bonus",
+    "episodes": [
+      {
+        "role": "bonus",
+        "title": "RIHC: The Odyssey, Ancient Greek Wars, and Ottoman Invasions",
+        "number": null,
+        "part": null,
+        "published": "2026-03-11T00:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTMzNzE4MCIsInUiOiI4NjMzNDgiLCJkIjoiMTc3MzE4NzY1NiIsImsiOjI2N318MmRiNmE2YmFkMzFmMDQxMTA4NzQ0YWQ3Y2U1NTBiZmY5NGM2YjEyMTU5OGVlNmMyYmQxMjIwYzM5ZWMyZDI4Zg.mp3",
+        "guid": "0d4a917c-1bc3-11f1-85fe-932a5045be7b"
+      }
+    ]
+  },
+  {
+    "name": "The Ku Klux Klan",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "The Ku Klux Klan: The Rise of Evil (Part 1)",
+        "number": 654,
+        "part": 1,
+        "published": "2026-03-23T00:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTU2MTE0MCIsInUiOiI4NjMzNDgiLCJkIjoiMTc3NDIyNDQ1NCIsImsiOjI2N318NjgyNGFjZDQ0MzdkNGY5Y2JiZDk2NDViOWVhMzFhMjYwZGYwOWJlMzI2MDY1ODQzYzE2MmNlYTA0MWQzYmJmOQ.mp3",
+        "guid": "44ca79f4-215a-11f1-9bae-6b178e470ffb"
+      },
+      {
+        "role": "main",
+        "title": "The Ku Klux Klan: Terror in the South (Part 2)",
+        "number": 655,
+        "part": 2,
+        "published": "2026-03-23T00:10:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTU2MTE0MiIsInUiOiI4NjMzNDgiLCJkIjoiMTc3NDIyNDc1MyIsImsiOjI2N318N2YyMjUzNzQ1MTE1YTAwN2ZlNGNlNTRjYjdhNzZjMDMzYjViNTNjNGIzOGZjM2RkNmMwOWU3Njg3MzdmYTMxOQ.mp3",
+        "guid": "f93621ae-215a-11f1-b123-ef0b2d9feb56"
+      },
+      {
+        "role": "main",
+        "title": "The Ku Klux Klan: Birth of a Nation (Part 3)",
+        "number": 656,
+        "part": 3,
+        "published": "2026-03-23T00:15:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTU2MTQ0MSIsInUiOiI4NjMzNDgiLCJkIjoiMTc3NDIyNTA1OSIsImsiOjI2N318ODQ2ZDNjOWJiZTAzNDU2ODdjZjkzZjU1ZDIxODU1NGQ5NzJmYzVkN2MxMTE1YmFmNmJjMTIwMmNhMWZjZmExYw.mp3",
+        "guid": "39a2308e-215b-11f1-9db9-5fbf689a4a52"
+      },
+      {
+        "role": "main",
+        "title": "The Ku Klux Klan: American Fascists (Part 4)",
+        "number": 657,
+        "part": 4,
+        "published": "2026-03-23T00:20:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTU2MTQ0NCIsInUiOiI4NjMzNDgiLCJkIjoiMTc3NDIyNTM0NSIsImsiOjI2N318MDViOGQ4YmY2N2E5YWU2NDU5NWE4YzllODgzZTM5Yzk3YWNkZTg4ZGMxZjA4NzRiNTU0MTFkMDUwMzhjYTgyOA.mp3",
+        "guid": "8974c07c-215b-11f1-a9b7-93d84c3bc17c"
+      }
+    ]
+  },
+  {
+    "name": "The Hitler Interviews",
+    "kind": "bonus",
+    "episodes": [
+      {
+        "role": "bonus",
+        "title": "The Hitler Interviews",
+        "number": null,
+        "part": null,
+        "published": "2026-03-25T00:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTU4NzkyNSIsInUiOiI4NjMzNDgiLCJkIjoiMTc3NDM5NzI1MCIsImsiOjI2N318ZTlhMjZhZDIxZGZhYzY0NjJiY2ZiOWU1M2M4MmZmZDJkODE0YzYxMDEyNWE3YjI1NmVjMjdlZjc2MmNlN2Y3ZQ.mp3",
+        "guid": "54b6dfd8-26a5-11f1-ac64-f7d374bcde42"
+      }
+    ]
+  },
+  {
+    "name": "History in Photos",
+    "kind": "bonus-series",
+    "episodes": [
+      {
+        "role": "bonus",
+        "title": "Revolutions: Iran, the Prague Spring, and Ceaușescu’s Fall | History in Photos (FULL EPISODE)",
+        "number": null,
+        "part": null,
+        "published": "2026-03-31T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTkwNDM0MSIsInUiOiI4NjMzNDgiLCJkIjoiMTc3NDk5ODQ1MSIsImsiOjI2N318NWM0NDhkMTgxYWE1ZWNiODY0OTE2ZDY1YzZlMTAxNmIzMzRlNTVmM2Y1MmQxYjRkYTZhMjkwY2JkMDkxNTQ2Mw.mp3",
+        "guid": "8b470e22-2d1e-11f1-9227-37a363c9e9c5"
+      },
+      {
+        "role": "bonus",
+        "title": "Music: The Father of the Blues, Golden Age of Jazz, and David Bowie | History in Photos (FULL EPISODE)",
+        "number": null,
+        "part": null,
+        "published": "2026-04-07T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDAxMjg4MSIsInUiOiI4NjMzNDgiLCJkIjoiMTc3NTYwMzI2NSIsImsiOjI2N318MzliNTljNDUyNjMyY2IyMTM3YWVkZjk5ZjcwMjRkMzk4Y2JhMmJlZWI5Y2M5OGJjZWVlNTk2NTM2NzBhYzBiYQ.mp3",
+        "guid": "e0f5ed32-329d-11f1-b882-8b07952b277c"
+      },
+      {
+        "role": "bonus",
+        "title": "Fashion: World War II, Weimar Republic’s Dadaism, and Bobby Kennedy’s Death | History in Photos",
+        "number": null,
+        "part": null,
+        "published": "2026-04-21T17:00:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDE3ODAwNyIsInUiOiI4NjMzNDgiLCJkIjoiMTc3Njc5MDk3MyIsImsiOjI2N318NTlkOWU1MTZiZGZiZDJkYzJhYmU4NmMzZTUyODEwMmRmMzM2NGE5NDk0YWMwOWE3ODMxMmZlMjY5NGViYjE0MQ.mp3",
+        "guid": "97f672aa-3d5b-11f1-a752-2fd0699b2858"
+      },
+      {
+        "role": "bonus",
+        "title": "Technology: The Great Depression, Inventing the Flash, and the Polaroid Puzzle | History in Photos",
+        "number": null,
+        "part": null,
+        "published": "2026-04-28T17:00:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDI3NDk3MCIsInUiOiI4NjMzNDgiLCJkIjoiMTc3NzM5NTc3MSIsImsiOjI2N318MGU5MjM1NjBiZTQ3YWNhM2NhMzFjMzMzNzQ0M2Y1ZTMwZDFhM2UzZWZkMWMxODc0MDM4ODIzMWJlOTZiZmNiNg.mp3",
+        "guid": "95db79ec-42f7-11f1-a247-b7702b00e35b"
+      }
+    ]
+  },
+  {
+    "name": "Dawn of the Samurai",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "Dawn of the Samurai: The Shadow of the Sword (Part 1)",
+        "number": 658,
+        "part": 1,
+        "published": "2026-04-05T23:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTk2NzUyMCIsInUiOiI4NjMzNDgiLCJkIjoiMTc3NTQzMDQ2MyIsImsiOjI2N318YWNiZWMyMjVlMTQyZmNhZWIyNDAzYzZjZDdlMDUyMTQwOGYwNDkwYjhmMDFkNDk1MjNkMGUzMWUyYzhkZDFlMg.mp3",
+        "guid": "2d5b4c94-2c4a-11f1-88b4-636091e3fb7a"
+      },
+      {
+        "role": "main",
+        "title": "Dawn of the Samurai: Bloodbath at the Bridge (Part 2)",
+        "number": 659,
+        "part": 2,
+        "published": "2026-04-05T23:10:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTk2NzUyMyIsInUiOiI4NjMzNDgiLCJkIjoiMTc3NTQzMDc2MCIsImsiOjI2N318ZDEyODM0NDgyMmE2MDU5N2QwNTYxY2U1Njc0NzJiNjM4NGI4MDM1OTQ5OTAxNWNmYTM1YmQxNmUzMTdmMGY1NA.mp3",
+        "guid": "acf0100c-2c4a-11f1-88b4-ef43fc73440f"
+      },
+      {
+        "role": "main",
+        "title": "Dawn of the Samurai: Japan’s Greatest Warrior (Part 3)",
+        "number": 660,
+        "part": 3,
+        "published": "2026-04-05T23:15:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTk2ODA5NCIsInUiOiI4NjMzNDgiLCJkIjoiMTc3NTQzMTMyMiIsImsiOjI2N318YTgwNjdkZjdjMTllYTY5ZGI3MTI1NGNlYTNkYmYxNWZjYzMxNTA4OTk2Y2E4ZDk5NjNlYjExMWQ3MGZmMWVjMQ.mp3",
+        "guid": "0471e5e8-2c4c-11f1-af98-ebe2e4d2966e"
+      },
+      {
+        "role": "main",
+        "title": "Dawn of the Samurai: The Shōgun Triumphant (Part 4)",
+        "number": 661,
+        "part": 4,
+        "published": "2026-04-05T23:20:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIxOTk2ODA5MyIsInUiOiI4NjMzNDgiLCJkIjoiMTc3NTQzMTMyMiIsImsiOjI2N318OWUxMjFhMDRhZjNhOWY4ODdmY2I2ZjAwNjc3ZjczNjA1M2I4ZDhiYjdiM2VlOTNiOGE1ODAxNzNiODBkNTNjMw.mp3",
+        "guid": "70b7053a-2c4c-11f1-ad81-37e1dda3d291"
+      },
+      {
+        "role": "bonus",
+        "title": "The Legacy of the Samurai: From Pearl Harbour to Star Wars",
+        "number": null,
+        "part": null,
+        "published": "2026-04-14T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDA5NjQ3MiIsInUiOiI4NjMzNDgiLCJkIjoiMTc3NjIwODA2MSIsImsiOjI2N318OGUzNDQyMGM5YjU3NTY1ZjFjNzM5NmZiZmE3YTVlNzZiMWFhYjI0OWQ4ZGJiZjNjMWIzYzk4NjNjNjRkMzdmYg.mp3",
+        "guid": "a6c2864e-372e-11f1-9eeb-67d555e3259f"
+      }
+    ]
+  },
+  {
+    "name": "Britain in the 70s",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "Britain in the 70s: The Rise of Thatcher (Part 1)",
+        "number": 662,
+        "part": 1,
+        "published": "2026-04-19T23:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDE1NTU0MCIsInUiOiI4NjMzNDgiLCJkIjoiMTc3NjY0MDA2NSIsImsiOjI2N318MDllOTQyN2FjYjJkNjA3NWYzOGRkMzYxNWMwZmZmODQ2NWE3Nzk3ZjU4M2EwZTc1M2U4YzA1NzQ3MDliZDI2Ng.mp3",
+        "guid": "27e00bfe-3741-11f1-90a4-abebe828b8ea"
+      },
+      {
+        "role": "main",
+        "title": "Britain in the 70s: The Brexit That Never Was (Part 2)",
+        "number": 663,
+        "part": 2,
+        "published": "2026-04-19T23:10:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDE1NTU0NSIsInUiOiI4NjMzNDgiLCJkIjoiMTc3NjY0MDM2MCIsImsiOjI2N318MDEwMjZhMTUyN2Q4ZmY3NzcxYjMxMTM3NTY3Zjc2MmU1MmM1ZGY3ZGFlMzk5MWI3OTE3NjlmMmE2MzYzMWMzNg.mp3",
+        "guid": "ad5b2d68-3741-11f1-b0a3-779359946d7c"
+      },
+      {
+        "role": "main",
+        "title": "Britain in the 70s: Scandal in Downing Street (Part 3)",
+        "number": 664,
+        "part": 3,
+        "published": "2026-04-19T23:15:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDE1NTg0NiIsInUiOiI4NjMzNDgiLCJkIjoiMTc3NjY0MDY2NyIsImsiOjI2N318Yzc2NGU2NGQ3NGM1NmQ0NGJhZTBkM2ZmYzU2MmY1ODczOWNkYTY5NjZlOGIyMWI1ZmE2MTRkMTI3YTJiZDdkMA.mp3",
+        "guid": "96ae08a0-3742-11f1-bdeb-5bb5e76b3799"
+      },
+      {
+        "role": "main",
+        "title": "Britain in the 70s: The Bailout from Hell (Part 4)",
+        "number": 665,
+        "part": 4,
+        "published": "2026-04-19T23:20:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDE1NTg0OCIsInUiOiI4NjMzNDgiLCJkIjoiMTc3NjY0MDk1MSIsImsiOjI2N318ZjgzYzZmMjY1MDAyZWVlNWVlZWM0ZjM2YzE3ZmRlNTJkMTAxYmI3Mzc0MzU0ZjE1YTU2MGQ4NzliMWJiMDAwNg.mp3",
+        "guid": "f0583f1a-3742-11f1-89e2-c3b443efdfd3"
+      }
+    ]
+  },
+  {
+    "name": "Wine and the Birth of Civilisation",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "Wine and the Birth of Civilisation",
+        "number": 666,
+        "part": null,
+        "published": "2026-05-03T23:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDMzNzA2NCIsInUiOiI4NjMzNDgiLCJkIjoiMTc3Nzg0OTY1NiIsImsiOjI2N318YTkzYWE5ZTQyZmRmMDJjODhlYWRjMzAxZmI1NTkxM2IzMWQ2N2MxMzk1MDlmODA2ODk0ZTQyZDM5MTFmNTgzMw.mp3",
+        "guid": "904cd648-4562-11f1-8762-e73d4dbb969a"
+      },
+      {
+        "role": "bonus",
+        "title": "New World Wine: The Drink of Emperors",
+        "number": null,
+        "part": null,
+        "published": "2026-05-05T23:00:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDM2MjQzOSIsInUiOiI4NjMzNDgiLCJkIjoiMTc3ODAyMjE2OCIsImsiOjI2N318YWJiZjIyNWI3OGNlYWU2NThhMTJiNWZlMjhmMTc0Y2M1MzFmMjgwYTNmYzBjMzBhNmI4MDIzM2JhZjIyMTYzNA.mp3",
+        "guid": "418ec6fc-4886-11f1-86bb-13295d2fe7c2"
+      }
+    ]
+  },
+  {
+    "name": "The Mystery of the Mona Lisa",
+    "kind": "standalone",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "The Mystery of the Mona Lisa",
+        "number": 667,
+        "part": null,
+        "published": "2026-05-05T10:00:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDM1NjA1MCIsInUiOiI4NjMzNDgiLCJkIjoiMTc3Nzk3NTM2OCIsImsiOjI2N318YTEwZjhhZTJiMjZmZGFlODFjZWY4MWRkZWVhMzA0NWU4YjIxMjBjMmQ3OWNmMDkwODQ1OWM0YjAwMDFjZTUxYg.mp3",
+        "guid": "40fc3e5e-4863-11f1-bb8c-c333c9d6306f"
+      }
+    ]
+  },
+  {
+    "name": "Greece vs Persia",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "Greece vs Persia: The Rise of the First Superpower (Part 1)",
+        "number": 668,
+        "part": 1,
+        "published": "2026-05-10T23:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDQxODk4MyIsInUiOiI4NjMzNDgiLCJkIjoiMTc3ODQ1NDQ2MiIsImsiOjI2N318NjQxOGYyNDBlYWQ3MDY0MmExOGZjYzllNmI2ODIxNDRhMzRlNGUyMjJhNjViYzEzYjNkOTQ4ODFiMGQ0ZDQ4NQ.mp3",
+        "guid": "5897863e-4acc-11f1-9eee-332612ce267d"
+      },
+      {
+        "role": "main",
+        "title": "Greece vs Persia: The Battle of Marathon (Part 2)",
+        "number": 669,
+        "part": 2,
+        "published": "2026-05-10T23:10:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDQxODk5MyIsInUiOiI4NjMzNDgiLCJkIjoiMTc3ODQ1NDc2NCIsImsiOjI2N318N2MwNjZkZTk0NTIyMWE3YmFjYmU4N2Y2MTE1ZTQzZjA4ZGI3NmVmMDJkMmFkOTlmMGUxMzM4OWM4Mjc1ZmFiZA.mp3",
+        "guid": "b9651f12-4acc-11f1-9ea3-8f7039997f52"
+      },
+      {
+        "role": "bonus",
+        "title": "Is Marathon the Most Important Battle in Ancient History?",
+        "number": null,
+        "part": null,
+        "published": "2026-05-12T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDQ0NTEyOSIsInUiOiI4NjMzNDgiLCJkIjoiMTc3ODYyNzI3NiIsImsiOjI2N318Mjk0MTAwZDhlMDRhYzJlMWI4NDM4ZjQwNWEwNjYxOThkZDFjMjEwMmYxYzllMjhjODY3MzE2ZDc4NWRiOTM0OQ.mp3",
+        "guid": "856361c6-4de5-11f1-b039-03ae2725b0bb"
+      }
+    ]
+  },
+  {
+    "name": "Tom Holland Meets Paul McCartney",
+    "kind": "standalone",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "Tom Holland Meets Paul McCartney",
+        "number": null,
+        "part": null,
+        "published": "2026-05-14T23:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDQ3ODE1NiIsInUiOiI4NjMzNDgiLCJkIjoiMTc3ODgwMDA3NCIsImsiOjI2N318MGIxOWRjNjI3Y2YzNjVjODgyZDU1Njg0ZmVhMzEwZjk5OGE0ODFiNDk4NjhiYTYyY2EwMTg5ZWM5ZDU4ZjQ5MA.mp3",
+        "guid": "c6ae18ea-4fc2-11f1-8ac4-574816103443"
+      }
+    ]
+  },
+  {
+    "name": "The First World War",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "The First World War: Death in the Trenches (Part 1)",
+        "number": 671,
+        "part": 1,
+        "published": "2026-05-17T23:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDUxMDI2MiIsInUiOiI4NjMzNDgiLCJkIjoiMTc3OTA1OTI2MiIsImsiOjI2N318NjI2MzA5NTRlYmNjZWQ3ZWNhODQ5MmY2NzlmYjQyMDhkYmMwZDIxYmI4ZDQ4Y2FiYzg3MjlkY2Q2NzRkZTBmNw.mp3",
+        "guid": "cefb191a-4df3-11f1-bbfe-d7395857c7da"
+      },
+      {
+        "role": "main",
+        "title": "The First World War: Italy’s Doomed Campaign (Part 2)",
+        "number": 672,
+        "part": 2,
+        "published": "2026-05-17T23:10:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDUxMDI2NyIsInUiOiI4NjMzNDgiLCJkIjoiMTc3OTA1OTU2MiIsImsiOjI2N318ZThjNDJhNTUyMWM3M2Y3ZDkxNzVkNjhmN2Y5ZTNlYWQxZmI4ODYxZTA0OTc1MDg5ODVlNjRjMjNmZGRkZmRmZQ.mp3",
+        "guid": "9719e41a-4e05-11f1-8f68-3b8a93e013b7"
+      },
+      {
+        "role": "main",
+        "title": "The First World War: The Submarine Strikes (Part 3)",
+        "number": 673,
+        "part": 3,
+        "published": "2026-05-17T23:15:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDUxMDU2OCIsInUiOiI4NjMzNDgiLCJkIjoiMTc3OTA1OTg4MCIsImsiOjI2N318MzBjODBmYjBlZmUwNDUwODMxNjNjYjlhYTljMTlkMmNhYmVhODc4Y2ZkYjgwOWEwOWIxZjMwZTc4MjNiYWZiZA.mp3",
+        "guid": "d6c2d220-4e05-11f1-bd3e-3f883dfe53ee"
+      },
+      {
+        "role": "main",
+        "title": "The First World War: The Spy Who Took on the Germans (Part 4)",
+        "number": 674,
+        "part": 4,
+        "published": "2026-05-17T23:20:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDUxMDU3MSIsInUiOiI4NjMzNDgiLCJkIjoiMTc3OTA2MDE2MiIsImsiOjI2N318OTY5YTE1YjVjYmFmNmYyZmVlMjBjMzI5NTJmZmNiNzBmNmMxZDlhNWNhYWQyMzFhNzNiYWRmOWFiZTZlNDc4Zg.mp3",
+        "guid": "14121528-4e06-11f1-aa34-5f5b6a6dd343"
+      },
+      {
+        "role": "main",
+        "title": "The First World War: Slaughter at Gallipoli (Part 5)",
+        "number": 675,
+        "part": 5,
+        "published": "2026-05-17T23:25:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDUxMDU3NiIsInUiOiI4NjMzNDgiLCJkIjoiMTc3OTA2MDQ2OCIsImsiOjI2N318OTZlYmFjODFhMjliNTMzNzA3N2Y2OGUxMTBjNDFhNjczZmM3MzQ4NjRmMTY0MDg5NzdjNmZlN2MyYTQzMzI2OA.mp3",
+        "guid": "1be1e03e-4e07-11f1-a147-832c0b322397"
+      },
+      {
+        "role": "main",
+        "title": "The First World War: Churchill’s Calamity (Part 6)",
+        "number": 676,
+        "part": 6,
+        "published": "2026-05-17T23:30:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDUxMDU3OSIsInUiOiI4NjMzNDgiLCJkIjoiMTc3OTA2MDc3MCIsImsiOjI2N318ZGVlZTllMzliNDVjZjc2YmQ4NzJiNGMwYWJiZjcyZWJiNWNjY2YzZDQ3MmU1MDI5ODhmYmNjMTE0NzU4YzQyYw.mp3",
+        "guid": "5f19b2be-4e07-11f1-81f4-cb5044ee4dc3"
+      },
+      {
+        "role": "bonus",
+        "title": "Was the First World War More Important than the Second?",
+        "number": null,
+        "part": null,
+        "published": "2026-06-02T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDcxMTMwNyIsInUiOiI4NjMzNDgiLCJkIjoiMTc4MDQ0MTY2NiIsImsiOjI2N318ZTEyZmIyZWIwMDY2OWJhZmFmNWNmMjFkYTAyNjVlNjdhY2E3NmMyNDNlNGI2ZDAyY2JjODg0N2I0ODEyMjg4MQ.mp3",
+        "guid": "3cce5f76-5dce-11f1-948d-17046d2472fe"
+      }
+    ]
+  },
+  {
+    "name": "Medieval Queens with Helen Castor",
+    "kind": "bonus-series",
+    "episodes": [
+      {
+        "role": "bonus",
+        "title": "Empress Matilda: Civil War and the Fight for the Throne",
+        "number": null,
+        "part": null,
+        "published": "2026-05-19T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDUzNzc2OSIsInUiOiI4NjMzNDgiLCJkIjoiMTc3OTIzMjA2NCIsImsiOjI2N318ZmYxYjM1N2M0MzQ2NzY1ZGU3MjNjMTk0Njc2YzhmNTllMzIxNjBmMGY1ZjAwNzY4MWQ1MDI5N2U5OGQ0NGM1Mw.mp3",
+        "guid": "f7648f14-5373-11f1-b3ba-3f608cd222ae"
+      },
+      {
+        "role": "bonus",
+        "title": "Eleanor of Aquitaine: Lioness of England",
+        "number": null,
+        "part": null,
+        "published": "2026-05-26T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDYyMzI0NyIsInUiOiI4NjMzNDgiLCJkIjoiMTc3OTgzNjg1NiIsImsiOjI2N318YzUxZjkzZWYzODZiYmFkM2M0YTViZGVmZWVhYWVhMWRhODIwM2ZlZDdiM2RjZWVkMmE4Yjg5NzM1N2M4OGVhNQ.mp3",
+        "guid": "2531639e-58f7-11f1-be97-8f434da9a301"
+      },
+      {
+        "role": "bonus",
+        "title": "Isabella of France: The First Femme Fatale",
+        "number": null,
+        "part": null,
+        "published": "2026-06-09T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDgwMDQ1MSIsInUiOiI4NjMzNDgiLCJkIjoiMTc4MTA0NjQ2MyIsImsiOjI2N318YTJlZWE1OGFlOTNjMmZlZTJjNDI1NGY2MDFlZjY0ZDFmMzlhMjlmNDNmNTc2MGFlY2ZiNmJkM2M4MTM2NzRkMw.mp3",
+        "guid": "748334c8-5919-11f1-86d6-e7c0777a503e"
+      }
+    ]
+  },
+  {
+    "name": "National Anthems (World Cup Special)",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "USA: The Star-Spangled Banner (Part 1)",
+        "number": 677,
+        "part": 1,
+        "published": "2026-06-07T23:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDc3MzIzOSIsInUiOiI4NjMzNDgiLCJkIjoiMTc4MDg3MzY2MiIsImsiOjI2N318YmE0OTVhYmQ3NjJlNzJlMTg2YjMxNGU0NWE4MGVkZWMwMjZhODBhZWJhMGEwY2JlODRmZTcyNWYwYmZhZDdiOA.mp3",
+        "guid": "ac083ee0-5e7b-11f1-88d2-f77acbfe033b"
+      },
+      {
+        "role": "main",
+        "title": "Britain: God Save the King (Part 2)",
+        "number": 678,
+        "part": 2,
+        "published": "2026-06-07T23:10:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDc3MzI0NSIsInUiOiI4NjMzNDgiLCJkIjoiMTc4MDg3Mzk1NyIsImsiOjI2N318OWRjNTM1ODhiMmJhNmIwMmNhMWJkMDA1NWYwOTBkYjAyNzQ4YjFkNDcyNDM1Yzk4MGY3MjJjZTYyNWJjZGM2Mg.mp3",
+        "guid": "91e72422-5e7b-11f1-9acd-8fe212b6388e"
+      },
+      {
+        "role": "main",
+        "title": "Germany: The Song Hitler Stole (Part 3)",
+        "number": 679,
+        "part": 3,
+        "published": "2026-06-07T23:15:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDc3MzU0NiIsInUiOiI4NjMzNDgiLCJkIjoiMTc4MDg3NDI2OSIsImsiOjI2N318ZjlhYjFjMTdlOGJiMTBmNzgwM2Y1ZGE1NzQ2M2Y3YjBmMmExYzllMGRlYWY0YTBiOTA0YmUzMDEzN2JhNjM2ZQ.mp3",
+        "guid": "7bd819de-5e7b-11f1-9bee-830bbadfe2c3"
+      },
+      {
+        "role": "main",
+        "title": "The Netherlands: The Revolt that Made The Modern World (Part 4)",
+        "number": 680,
+        "part": 4,
+        "published": "2026-06-07T23:20:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDc3MzU0OCIsInUiOiI4NjMzNDgiLCJkIjoiMTc4MDg3NDU1NSIsImsiOjI2N318Y2FlMzBiMWZjZGU3YjBjMTBmMzQ4YjMwMGViZGMyYWJiOWE4ZDJiNjFmMWQwODgyYmE0Mzg5NmM3MTNhYTE0OQ.mp3",
+        "guid": "59687c54-5e7b-11f1-9568-d30565e77be1"
+      },
+      {
+        "role": "main",
+        "title": "Brazil: The Emperor’s Anthem (Part 5)",
+        "number": 681,
+        "part": 5,
+        "published": "2026-06-07T23:25:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDc3MzU1MCIsInUiOiI4NjMzNDgiLCJkIjoiMTc4MDg3NDg2MyIsImsiOjI2N318OTA1NWYyOTVmZTZhOWZlYjhlNDJiZDg2YTNjZmIzNWE0ZjUzZDAwNjY4NzgxZWMzMDVmYjFlMGJjZTJjZWVlNw.mp3",
+        "guid": "39a844a8-5e7b-11f1-a95b-a7485b52431f"
+      },
+      {
+        "role": "main",
+        "title": "South Africa: Mandela and the Death of Apartheid (Part 6)",
+        "number": 682,
+        "part": 6,
+        "published": "2026-06-07T23:30:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDc3MzU1MiIsInUiOiI4NjMzNDgiLCJkIjoiMTc4MDg3NTE2MSIsImsiOjI2N318ZDJlY2NmNTY0MTc2MzYwOGJmYzE5ZjJhZmU5MGQ4NmY1MzBhYjdkZDQxOGU4YTI0N2VhZjYyMGYwZjczZjEyNw.mp3",
+        "guid": "1edb8b8a-5e7b-11f1-b509-fb7b81870fd7"
+      }
+    ]
+  },
+  {
+    "name": "History of the World Cup",
+    "kind": "bonus-series",
+    "episodes": [
+      {
+        "role": "bonus",
+        "title": "The Fascist World Cup: Mussolini's Football Dictatorship | History of the World Cup",
+        "number": null,
+        "part": null,
+        "published": "2026-06-16T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMDg4NzgxNiIsInUiOiI4NjMzNDgiLCJkIjoiMTc4MTY1MTI2MSIsImsiOjI2N318MzdmZDBhZDBmNzc3M2Y5MjdmMzUwZjIwYzllZmM4ZDAwYzJhNWFkNTk4MWNlMjg2YjAyZTE5NTM1OTBmMWY5OA.mp3",
+        "guid": "94369c44-69a2-11f1-8ecf-8f21336066e9"
+      },
+      {
+        "role": "bonus",
+        "title": "Brazilian Dictators and the Beautiful Game | History of the World Cup",
+        "number": null,
+        "part": null,
+        "published": "2026-06-23T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTAwMTg0NyIsInUiOiI4NjMzNDgiLCJkIjoiMTc4MjI1NjA2MSIsImsiOjI2N318MTIwMmY4YWE2MWQ5OTY1NDJlMzU2ZGMyNTI3YTJiYzNiNWExMTk2OTMzMzVkMWQ1NDUwOTlkMTAwZmNmM2NiMQ.mp3",
+        "guid": "1644b26c-6e25-11f1-aa92-2be929060709"
+      },
+      {
+        "role": "bonus",
+        "title": "The Junta's Tournament: A 1978 Nightmare in Argentina | History of the World Cup",
+        "number": null,
+        "part": null,
+        "published": "2026-06-30T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTA5MTQzNyIsInUiOiI4NjMzNDgiLCJkIjoiMTc4Mjg2MDg2MSIsImsiOjI2N318ZDUzMDMxNzc2ZWRjZWEwYmM4M2YxMDVhOWI4MjBkZTE3ZjRlNGU2ZDgzYWVhMTgxMjNhODA0ZDlmNTQ4MTI2ZA.mp3",
+        "guid": "67fe6376-7084-11f1-897c-fb21ff6b7d49"
+      }
+    ]
+  },
+  {
+    "name": "The Founding Fathers",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "Washington: Hero of the Revolution (Part 1)",
+        "number": 683,
+        "part": 1,
+        "published": "2026-06-28T23:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTA2MTk1NiIsInUiOiI4NjMzNDgiLCJkIjoiMTc4MjY4ODA1OCIsImsiOjI2N318MmQ1ZWNmMTIyMWRlYjdmNjZhOWRmODlmNzJiMzNkNWM3ZWU4YTFjODlmMmFjNTJkZDM0NTZkMjFkYTNhMWZiYw.mp3",
+        "guid": "caa68f22-715f-11f1-ab42-775108f7e3d5"
+      },
+      {
+        "role": "main",
+        "title": "Franklin: Revenge of the American Genius (Part 2)",
+        "number": 684,
+        "part": 2,
+        "published": "2026-06-28T23:10:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTA2MTk2MiIsInUiOiI4NjMzNDgiLCJkIjoiMTc4MjY4ODM1NyIsImsiOjI2N318MGI4N2NkN2MwM2JjZjdiNzU1ZDI2OTRiNjAxMTYzZGUyMGY1MjEwODYyZDg1N2I1YmFjOTYzYzY4ODBhYmRkNg.mp3",
+        "guid": "f487a8d0-715f-11f1-a7dd-17274a07271e"
+      },
+      {
+        "role": "main",
+        "title": "Hamilton: Duel to the Death (Part 3)",
+        "number": 685,
+        "part": 3,
+        "published": "2026-06-28T23:15:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTA2MjI2NiIsInUiOiI4NjMzNDgiLCJkIjoiMTc4MjY4ODY3MCIsImsiOjI2N318YmRlYzM3OWY4ZjNkMzllZjA0Yjg2ZTZlNTg4ZGJjMTg2ODkzNmQ1YTJlZDljN2Y4MDRkYzQ3YzFiZDQ2MmM2Zg.mp3",
+        "guid": "1aa99816-7160-11f1-aae1-f742451bedd5"
+      },
+      {
+        "role": "main",
+        "title": "Jefferson: The Betrayal of Liberty (Part 4)",
+        "number": 686,
+        "part": 4,
+        "published": "2026-06-28T23:20:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTA2MjI2OCIsInUiOiI4NjMzNDgiLCJkIjoiMTc4MjY4ODk1OCIsImsiOjI2N318ZTE0YWVjOGFlYTAzNGRhZTAxMDMzODg5MmU5ZDlhMzQxMjg2YzA0NTNhNjgzMDJjOGVlZGMzMjJkNjNjYWIzOQ.mp3",
+        "guid": "46043cdc-7160-11f1-8901-639be07518d8"
+      },
+      {
+        "role": "bonus",
+        "title": "Why America Really Declared Independence with Ken Burns",
+        "number": null,
+        "part": null,
+        "published": "2026-07-07T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTE3NDM0MiIsInUiOiI4NjMzNDgiLCJkIjoiMTc4MzQ2NTY2NSIsImsiOjI2N318YTRiMDZlODcyZGI1MTI0OTgyYmMxN2ZlNGYxZDI1NDk0MDdkMjc3OTk2ZmY2MGVhODAxYzdiNDI1MGFkYWQ0Yw.mp3",
+        "guid": "4f708dde-79e4-11f1-8dbc-ffd8691656cf"
+      },
+      {
+        "role": "bonus",
+        "title": "What The Founding Fathers Got Wrong with Conan O'Brien",
+        "number": null,
+        "part": null,
+        "published": "2026-07-09T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTQzMTU3MiIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NDg0ODA2MiIsImsiOjI2N318YTQxZWMyOWZjMTY0MjkxYWZlZmNmODgwMDM3MGNhNTBjMDNjNmZlMjMyZGFiMjZlYWQzOGFmYTc4M2RmYWNiNA.mp3",
+        "guid": "ec6fc8e2-868d-11f1-8809-4b9d2709b183"
+      }
+    ]
+  },
+  {
+    "name": "The Odyssey",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "The Odyssey: Hero of the Trojan Horse (Part 1)",
+        "number": 687,
+        "part": 1,
+        "published": "2026-07-12T23:00:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTI0MjYxOCIsInUiOiI4NjMzNDgiLCJkIjoiMTc4Mzg5NzM3NSIsImsiOjI2N318MWFkZWNkOTUwNzA3ODc4OWJiYmM0NTFiMTFmM2M1ZjhiNmI1OTdjN2IxMzcxYjcxYjlmM2UyMTk0ZDhkZDUyMA.mp3",
+        "guid": "c9e42d66-7ad2-11f1-9931-57c7613896e8"
+      },
+      {
+        "role": "main",
+        "title": "The Odyssey: Return of the King (Part 2)",
+        "number": 688,
+        "part": 2,
+        "published": "2026-07-12T23:10:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTI0MjY0MSIsInUiOiI4NjMzNDgiLCJkIjoiMTc4Mzg5Nzk2MCIsImsiOjI2N318NGI0NjA5ZTZmYTJmYzdiMjUwMzM4MzFiOWY4NzE4ZDcxMWM4ZjdlY2RkMGYyZTBmZDhjMWEyYmEwNjFmOTViYw.mp3",
+        "guid": "e809bc66-7ad2-11f1-a333-2b6a94b1033e"
+      },
+      {
+        "role": "bonus",
+        "title": "Why Is Christopher Nolan's Odyssey Controversial?",
+        "number": null,
+        "part": null,
+        "published": "2026-07-14T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTI3MDkzNCIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NDA3MDQ1NCIsImsiOjI2N318ZTQwMGZkMzQwMjY0MTMxMTAyMTJjMTc5MjA2MTc0MWRlYWQ0NDY5NmI5OTRjZTY4M2MyMjE3ZTQ1OGU2ZmMwNg.mp3",
+        "guid": "57fb2100-7f6e-11f1-9b49-2fd9db2cbe64"
+      },
+      {
+        "role": "bonus",
+        "title": "Tom Holland Meets Tom Holland + The Odyssey Review",
+        "number": null,
+        "part": null,
+        "published": "2026-07-16T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTMwMTIyMiIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NDI0MzI1NiIsImsiOjI2N318OGVhM2JiNTAxMzhhYjg5YWM1NDYzZDc2ZGJkNTc4MmRhZTNkNjVlOThjY2IzYzJhMWIyMzM1NTJhZmNmZjM4ZA.mp3",
+        "guid": "a40fad3c-8134-11f1-914b-0b3b74217d7b"
+      }
+    ]
+  },
+  {
+    "name": "A Murderous Affair",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "A Murderous Affair: The Habsburgs' Greatest Scandal (Part 1)",
+        "number": 689,
+        "part": 1,
+        "published": "2026-07-19T23:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTM0OTI5MCIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NDUwMjQ1OCIsImsiOjI2N318MWU2MWJmMTFmYmIyMDQ3NDZmZTdlMzI5NWEzNWQ0NmYxNGNhY2RkOTZjMmMzZDVhYjI1ZGRlZjY4YzAxMTMyYw.mp3",
+        "guid": "8ccb3660-81e2-11f1-af41-e7b4ae602a1f"
+      },
+      {
+        "role": "main",
+        "title": "A Murderous Affair: Death at Mayerling (Part 2)",
+        "number": 690,
+        "part": 2,
+        "published": "2026-07-19T23:10:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTM0OTMwOSIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NDUwMjc1OSIsImsiOjI2N318NDQ4NDBmYjZjNDQ1M2M4ZmU3ZTQ4ODQ4ZjE0ZGQwNTQzMzJjMzU2YWQzNGE1YTI5ZjU5ZGFmNzI2MjNiYTBhOQ.mp3",
+        "guid": "98c17ee6-81e4-11f1-ad8a-f7cacd132a95"
+      },
+      {
+        "role": "bonus",
+        "title": "The Successor to the Mayerling Murder",
+        "number": null,
+        "part": null,
+        "published": "2026-07-21T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTM5MDM4OSIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NDY3NTI2MiIsImsiOjI2N318N2NjODVmZDEwY2JkMzNiM2NkODEwZWY4NzUwNzY1MTIyNGRhMWY3NDRmNjNlMGI2MjJkZWNhZjk4Y2U4ZjE2NA.mp3",
+        "guid": "f4e4d4c4-850a-11f1-9197-bf727eda3288"
+      }
+    ]
+  },
+  {
+    "name": "Elizabeth I vs The Catholics",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "Elizabeth I vs The Catholics: The Queen’s Spymaster (Part 1)",
+        "number": 691,
+        "part": 1,
+        "published": "2026-07-26T23:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTUwNDUwMiIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NTEwNzI1OCIsImsiOjI2N318MmJlMGQ2NDI0YWZjNGJiMTA5ZmEyYzhmZGMxN2UzY2JhOWI3ZDA1OThiOTE5NDQzYjc3NmRiMTBkNzE1YmM0Mg.mp3",
+        "guid": "7e5040ac-873d-11f1-916e-73967b3d6390"
+      },
+      {
+        "role": "main",
+        "title": "Elizabeth I vs The Catholics: A Massacre in Paris (Part 2)",
+        "number": 692,
+        "part": 2,
+        "published": "2026-07-26T23:10:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTUwNDU0NyIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NTEwNzU1NCIsImsiOjI2N318MzE2NWM5MDhhZDE5ZDE0NDE4NDQ2NDU2MzIxYmVlYjIyMzMxYjNiMTAzY2QxNjIzN2IyZGQ4OGIyYzhhYjFlYg.mp3",
+        "guid": "207b3b48-873e-11f1-b9a1-c32f8648ad0b"
+      },
+      {
+        "role": "main",
+        "title": "Elizabeth I vs The Catholics: England’s Greatest Hero (Part 3)",
+        "number": 693,
+        "part": 3,
+        "published": "2026-07-26T23:15:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTUwNDkwMiIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NTEwNzg2MSIsImsiOjI2N318ZmU1OTM0MjUxYzhlNjk0Y2Q5M2NkOGJiZjY5Y2M4YzFjNWMwZWQ5NmVhMTVjZjMyYWEzN2JjN2ZhMTAzYWNjNA.mp3",
+        "guid": "7b07c70c-873e-11f1-9a69-6b8038d6f61c"
+      },
+      {
+        "role": "main",
+        "title": "Elizabeth I vs The Catholics: A Treacherous Conspiracy (Part 4)",
+        "number": 694,
+        "part": 4,
+        "published": "2026-07-26T23:20:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTUwNDk1NiIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NTEwODE1NyIsImsiOjI2N318YTA1NDYzOWRjMTY0ZWQxNGU5NWU5NjFhNzgzZDU4OWRkZDBmNDcxZTlmODVmNGRiNjYyMWJmMjllMGExMjNjMg.mp3",
+        "guid": "295ff312-8742-11f1-8139-6fc6eac7be7d"
+      },
+      {
+        "role": "main",
+        "title": "Elizabeth I vs The Catholics: The Shadow War (Part 5)",
+        "number": 695,
+        "part": 5,
+        "published": "2026-07-26T23:25:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTUwNTAxMyIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NTEwODQ1NiIsImsiOjI2N318ODljZDJkNDYzNjRlNzVjYjExZDIxY2FmODM0ZWY0NjBhZTUwMDY1NTIwNjc4MzZkMDBmYjhlMjVlMDAyZmZlOQ.mp3",
+        "guid": "96709cd6-8742-11f1-b46d-3b8a80dc76f5"
+      },
+      {
+        "role": "main",
+        "title": "Elizabeth I vs The Catholics: Killing the Queen of Scots (Part 6)",
+        "number": 696,
+        "part": 6,
+        "published": "2026-07-26T23:30:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTUwNTA3MCIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NTEwODc2NiIsImsiOjI2N318MmQ2NmIwMjM3ZjE0NzgxY2MyMzljNWIzYmNjY2QzMzdlZTNkZDhiY2UyNWJlNDg2MjdiOGRmOTAzZjA3ZDIxNg.mp3",
+        "guid": "de71f3fe-8742-11f1-9f97-eb196c539255"
+      },
+      {
+        "role": "bonus",
+        "title": "Why Was Elizabeth I Such An Effective Queen?",
+        "number": null,
+        "part": null,
+        "published": "2026-07-28T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTU2Mjk0NyIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NTI4MDA2MiIsImsiOjI2N318YWJmMDdhYjhjMTJlMmJkOWMyMWViZjVkMTViZjAzNjk0ZWYyOGNhNzdkYTU1MjYyOWFlNTZkNjM1MWNjZTFmNA.mp3",
+        "guid": "d2a734a2-8748-11f1-8a2d-1f59d774ff7d"
+      },
+      {
+        "role": "bonus",
+        "title": "Imprisoning the Catholic Queen of Conspiracy",
+        "number": null,
+        "part": null,
+        "published": "2026-08-04T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTY5ODMzNiIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NTg4NDg2NiIsImsiOjI2N318Y2I4ZGVlMGRiZjdlMGQwMTE3MDc1MzU5MmIyZjZmMDVmMGM2YzQwYTI0MWEzMTAwNGU1NzA5ZDBlZDIxMTYzNQ.mp3",
+        "guid": "9aeeb688-8f2d-11f1-86b5-a36ceca7002c"
+      },
+      {
+        "role": "bonus",
+        "title": "The Tudor Da Vinci Code",
+        "number": null,
+        "part": null,
+        "published": "2026-08-11T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTgxNDI5MiIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NjQ4OTY2MyIsImsiOjI2N318YTc2YTI4ZWE3YjE5MGNjZDIxYTFlZGVjODdhZmE5NThiNzY2Zjg4NzU3YzkwYjM0ODBiMTliZmI5Y2EyZjQ1OA.mp3",
+        "guid": "19dabff6-90c7-11f1-a015-7fb554ccbef1"
+      },
+      {
+        "role": "bonus",
+        "title": "Was Elizabeth I England's Greatest Monarch?",
+        "number": null,
+        "part": null,
+        "published": "2026-08-13T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTg0OTc3OCIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NjY2MjQ1NyIsImsiOjI2N318OWFmM2FmZjVkMjczZThmNGQxODNmODA4YWVlNDE3N2FiNTQxZGU3NjA4M2MwYTc0MGZiMDhjMzAzYTlkNjc3Ng.mp3",
+        "guid": "88bd657a-9641-11f1-88ad-53319de45eac"
+      }
+    ]
+  },
+  {
+    "name": "The Troubles",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "The Troubles: Murder in Belfast (Part 1)",
+        "number": 697,
+        "part": 1,
+        "published": "2026-08-16T23:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTg5NDE2NyIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NjkyMTY1NiIsImsiOjI2N318YzYyZjBmYThiYmUzOWZkMGI0ODg5NTFhOTkzM2NiMjY4NzRmMWViOTNmMWU2OTI2NzBkOWY2MDViMjlmMjNlMA.mp3",
+        "guid": "5f519bf4-962b-11f1-9de4-8349f15bd6be"
+      },
+      {
+        "role": "main",
+        "title": "The Troubles: The Brink of Civil War (Part 2)",
+        "number": 698,
+        "part": 2,
+        "published": "2026-08-16T23:10:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTg5NDE3NyIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NjkyMTk1OCIsImsiOjI2N318ZDNmNjAzNzE3OGFlMzIwZDI3OWI3NzIwOTVlMWE3YWQ2ODQ2M2U5MzJjNTRiZTQ2OWQ1MzM0YTBhYzJlOGFiYg.mp3",
+        "guid": "8546cafa-962b-11f1-ae70-573bdcfb4700"
+      },
+      {
+        "role": "main",
+        "title": "The Troubles: Return of the IRA (Part 3)",
+        "number": 699,
+        "part": 3,
+        "published": "2026-08-16T23:15:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTg5NDQ4NCIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NjkyMjI3MCIsImsiOjI2N318MzI4NjIwMmM1MmY1NTVlMmQ4OWU4NDExOTRhYWNkMzcxMjE5ZWFlNjM2ZmU5ZjIxZWZhYWUyMDMyNTM0ZmVjNg.mp3",
+        "guid": "03463b8e-962c-11f1-abb3-df0f7ead82ca"
+      },
+      {
+        "role": "main",
+        "title": "The Troubles: Bloody Sunday (Part 4)",
+        "number": 700,
+        "part": 4,
+        "published": "2026-08-16T23:20:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTg5NDQ5MCIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NjkyMjU1OCIsImsiOjI2N318MjNhYjc1MDIzYzllMzFlYmQ4NGIwZmU5ZTMxMjZkYTRiMzEzOTlhOGUwMWY3NzIzYTc1MWZhZGFmY2VlOGZkYw.mp3",
+        "guid": "36ef8792-962c-11f1-8e5d-b7fb65b5340f"
+      },
+      {
+        "role": "bonus",
+        "title": "Why A United Ireland Isn't Part of the UK",
+        "number": null,
+        "part": null,
+        "published": "2026-08-18T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTkyMTcyMiIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NzA5NDQ2NyIsImsiOjI2N318YmYxZDIzNGU0Yzg1Zjk3ZTY0OTM4OTI5OWYwZDc2ZDAwYTM4MTRhN2VmMDM3ZWQwNzhjNmMwYjA3OGFlYmU3Yg.mp3",
+        "guid": "ee2e9c56-9b11-11f1-9884-434cc812e879"
+      },
+      {
+        "role": "bonus",
+        "title": "Were the Troubles Inevitable?",
+        "number": null,
+        "part": null,
+        "published": "2026-08-25T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjAxMTA1OSIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NzY5OTI2MyIsImsiOjI2N318MDFiNDg0ZmM2MDE0ZjcyM2QyNjBjNTFhZDhkNGQyNGZkZjliNjc3ODhkOTdlODU2ZWFkZjYyMzllMjQwMzA0Yw.mp3",
+        "guid": "cf8bec54-a075-11f1-98d6-3fcf4e718f02"
+      }
+    ]
+  },
+  {
+    "name": "The Death of History",
+    "kind": "bonus",
+    "episodes": [
+      {
+        "role": "bonus",
+        "title": "The Death of History",
+        "number": null,
+        "part": null,
+        "published": "2026-08-20T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMTk1MDExMyIsInUiOiI4NjMzNDgiLCJkIjoiMTc4NzI2NzI2MiIsImsiOjI2N318NmM3MjYwYjc2YzIzYjU1MWJhNDE5OGIxZTA2YTIyYmJlNGE4YjJlNzc2YzFjNmFhZjIzODEyYjAwZjc2NmU1Mg.mp3",
+        "guid": "bc78328a-97d3-11f1-b354-2f4b63041f87"
+      }
+    ]
+  },
+  {
+    "name": "Roman Civil War",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "Roman Civil War: Rise of the General (Part 1)",
+        "number": 701,
+        "part": 1,
+        "published": "2026-08-30T23:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjA3MTk4OSIsInUiOiI4NjMzNDgiLCJkIjoiMTc4ODEzMTI2MCIsImsiOjI2N318OGY2YzYwN2VkNzUyODc1ZjcyYzMzMjZhYWRjM2EyZTRmMDgwYzA4MTYxM2EzZTZjNWM4MzAxYWM0NzBjOTMxZQ.mp3",
+        "guid": "97ae8f2e-a09f-11f1-8ba5-f37131ad855d"
+      },
+      {
+        "role": "main",
+        "title": "Roman Civil War: The Barbarian Invasion (Part 2)",
+        "number": 702,
+        "part": 2,
+        "published": "2026-08-30T23:10:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjA3MTk5NiIsInUiOiI4NjMzNDgiLCJkIjoiMTc4ODEzMTU1OSIsImsiOjI2N318ZTgyZmZlNmE3MTM3ODk2OTg2NjRlNGM0NDYyMTI5ZmE2ZDQwNmQyOGNlNTAwYTc5YjYxZjdkNDIyMWU5NmRkZA.mp3",
+        "guid": "b65c54ec-a09f-11f1-8257-47a5f6cfcc9d"
+      },
+      {
+        "role": "main",
+        "title": "Roman Civil War: Marching on the Senate (Part 3)",
+        "number": 703,
+        "part": 3,
+        "published": "2026-08-30T23:15:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjA3MjMwMCIsInUiOiI4NjMzNDgiLCJkIjoiMTc4ODEzMTg2NyIsImsiOjI2N318NDg2YjExMmMzMTY3YjZlZmJiZWI4MDBhMjkxY2Q2OTNmNmViZTIzNTQ1OTI2NzM4ZWJkOTlkYTkxMDk5MDlmNA.mp3",
+        "guid": "21264378-a0a0-11f1-8ec4-abbf47c886f4"
+      },
+      {
+        "role": "main",
+        "title": "Roman Civil War: Master of the Republic (Part 4)",
+        "number": 704,
+        "part": 4,
+        "published": "2026-08-30T23:20:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjA3MjMwMiIsInUiOiI4NjMzNDgiLCJkIjoiMTc4ODEzMjE2NCIsImsiOjI2N318OWVkNDgwYTEzMzYyMGU2NjFkMjJjY2NiZWI2NDcxNzczYzI1NTNlMDliZmQ0Mjc4MWI3MzgwMGQ4ZDdmNmMxZQ.mp3",
+        "guid": "65df9e64-a0a1-11f1-b394-535e1305d88c"
+      },
+      {
+        "role": "bonus",
+        "title": "The General Who Made Rome Invincible",
+        "number": null,
+        "part": null,
+        "published": "2026-09-01T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjEwMDEwNyIsInUiOiI4NjMzNDgiLCJkIjoiMTc4ODMwNDA2NCIsImsiOjI2N318N2ZhYWMxOWViNDMwOWUwY2NhNjE2OGYwZjFkNGFmZmRhMDhiOWEzMjg4ZTNmNmM3MDgxOTE1MWQ3YzU4MzhhZQ.mp3",
+        "guid": "c043b2aa-a097-11f1-a86d-3715be2bcaa4"
+      },
+      {
+        "role": "bonus",
+        "title": "What Made The Romans Different with Mary Beard",
+        "number": null,
+        "part": null,
+        "published": "2026-09-03T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjEyNjk4MyIsInUiOiI4NjMzNDgiLCJkIjoiMTc4ODQ3Njg2MiIsImsiOjI2N318Zjc5YWVhMGEzODMwMGE0OWU3NGRjMzExYWM2ZjU0ZDFkODk5N2I5MTY1ZmQ3NWM4MGYyMTAzZDc4MjA4MWI2Mw.mp3",
+        "guid": "e50aee7a-a7b6-11f1-9c4f-37e5e21b937c"
+      },
+      {
+        "role": "bonus",
+        "title": "Cicero: Defender of the Republic",
+        "number": null,
+        "part": null,
+        "published": "2026-09-08T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjE5Nzc3MCIsInUiOiI4NjMzNDgiLCJkIjoiMTc4ODkwODg2MCIsImsiOjI2N318YTYwNjM0NWYwMDlkNGE3ZTEzZDY0Y2FlYzdkNDgyNzIyY2U4YTJkNzgyNDMxZmFiMDQ1M2EwZDMxNjRjNWRmZQ.mp3",
+        "guid": "efeaca1e-aaa3-11f1-889d-3b31d24cafe5"
+      }
+    ]
+  },
+  {
+    "name": "Queen Victoria’s Revenge",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "Queen Victoria’s Revenge: The Mad Emperor of Abyssinia (Part 1)",
+        "number": 705,
+        "part": 1,
+        "published": "2026-09-13T23:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjI2NDEyOSIsInUiOiI4NjMzNDgiLCJkIjoiMTc4OTM0MDg1MyIsImsiOjI2N318NjgzZjA0MjYyZTE3MmZmYmI4Yzg0ZDQ2NzdlYjY0ZjkyODIyZDc0NWZkYTMwN2RhMjg1NDEwM2E0OGIwYWVlZA.mp3",
+        "guid": "50276324-adf6-11f1-8c0c-a322f344875d"
+      },
+      {
+        "role": "main",
+        "title": "Queen Victoria’s Revenge: Storming the Citadel (Part 2)",
+        "number": 706,
+        "part": 2,
+        "published": "2026-09-13T23:10:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjI2NDEzNSIsInUiOiI4NjMzNDgiLCJkIjoiMTc4OTM0MTE1OCIsImsiOjI2N318NzQ4N2IxNzJlZTJkNjA5YWI4ZTFhMmRkMmI1NzVkMGM3YzdlZmVlNjU3YmI3ZDUwMDdhNWNmODQ5MzZjNmQxOQ.mp3",
+        "guid": "0d99f4ca-adf8-11f1-801a-1746c77819d4"
+      },
+      {
+        "role": "bonus",
+        "title": "The Mad Emperor's Lost Son",
+        "number": null,
+        "part": null,
+        "published": "2026-09-15T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjI5NjQ2OSIsInUiOiI4NjMzNDgiLCJkIjoiMTc4OTUxMzY1OSIsImsiOjI2N318MjAyZTJlMDUzOWYwNDVkODJiMzdmZWZlYjNhNWUwNjdkOTVjYWRlMTgxODc2NTIzYmJmOWE5NjkxZGFjYjFkMw.mp3",
+        "guid": "8ec005b6-b0e7-11f1-abfc-e3190911ef71"
+      }
+    ]
+  },
+  {
+    "name": "The History of Satire with Ian Hislop",
+    "kind": "bonus",
+    "episodes": [
+      {
+        "role": "bonus",
+        "title": "The History of Satire with Ian Hislop",
+        "number": null,
+        "part": null,
+        "published": "2026-09-17T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjMyNjc3MCIsInUiOiI4NjMzNDgiLCJkIjoiMTc4OTY4NjQ1OCIsImsiOjI2N318NzFlNDBjNDU3NTljY2Y4OGE1NTc2ZmJiMDMzMWNlNDcwNmJmNmJiM2MwMjg0M2MwNDY3YmMyYjkyZDY3MjQ5OQ.mp3",
+        "guid": "c91e61ea-b113-11f1-a59b-13e4b0eb7bfb"
+      }
+    ]
+  },
+  {
+    "name": "The Terror",
+    "kind": "series",
+    "episodes": [
+      {
+        "role": "main",
+        "title": "The Terror: How The French Revolution Collapsed Into Chaos (Part 1)",
+        "number": 707,
+        "part": 1,
+        "published": "2026-09-20T23:05:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjM2NjIyMyIsInUiOiI4NjMzNDgiLCJkIjoiMTc4OTk0NTY1NSIsImsiOjI2N318NWI0YTliZDA3M2I2MWNhMmFiYTQ5ZDUyOTE4NzZiNWRlMjJiNGJhMjYxY2YxNzQ0OTJjNWNjNTlhOGE2MDVlNA.mp3",
+        "guid": "7e956722-b118-11f1-bbea-afaae0399309"
+      },
+      {
+        "role": "main",
+        "title": "The Terror: The Reign of Robespierre (Part 2)",
+        "number": 708,
+        "part": 2,
+        "published": "2026-09-20T23:10:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjM2NjIyNyIsInUiOiI4NjMzNDgiLCJkIjoiMTc4OTk0NTk1NyIsImsiOjI2N318MTQzY2UwZDgzYTg0ZDM0N2M0YjkxYTU0NDUwMTRkZmU2NmVhNWJmNTgwZTQxZDNlZmNiOWY1MzM2Mjc0OTA4MA.mp3",
+        "guid": "98a2fb2a-b118-11f1-b30a-7327becf5625"
+      },
+      {
+        "role": "main",
+        "title": "The Terror: The Execution of Marie Antoinette (Part 3)",
+        "number": 709,
+        "part": 3,
+        "published": "2026-09-20T23:15:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjM2NjUzMiIsInUiOiI4NjMzNDgiLCJkIjoiMTc4OTk0NjI2NCIsImsiOjI2N318ZjEzOGQ5Y2JjYTk1M2JlZmQ2YWEwNjJkYTQ3NGJjMTliMTk2MWJhOTFmMGU3MzJjMjhlNjZjNjc0MmMxMDkzZg.mp3",
+        "guid": "bebc5c98-b118-11f1-9f59-ebb62cbf332b"
+      },
+      {
+        "role": "main",
+        "title": "The Terror: Death at the Guillotine (Part 4)",
+        "number": 710,
+        "part": 4,
+        "published": "2026-09-20T23:20:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjM2NjUzMyIsInUiOiI4NjMzNDgiLCJkIjoiMTc4OTk0NjU2MCIsImsiOjI2N318ZTc4NTkyZDAxYzZjMmNmZjlkMGExMDZkNTcxMGRlZTIzNWJmMGEwOTQ0M2EzNTk1NTBkNDY4NmNjZTk0ZDUyNg.mp3",
+        "guid": "500eb038-b119-11f1-be25-8f5d908d71ea"
+      },
+      {
+        "role": "main",
+        "title": "The Terror: Killing God (Part 5)",
+        "number": 711,
+        "part": 5,
+        "published": "2026-09-20T23:25:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjM2NjUzNSIsInUiOiI4NjMzNDgiLCJkIjoiMTc4OTk0Njg1MiIsImsiOjI2N318YTQwMzk4YWMzNDk3M2E5YWQyYWE3OTFiZWM4NWUxM2MxOTE2ZmM1Zjk0NWU0ZjY1YzU4YWUxZGY3NTdhOWQ4Yg.mp3",
+        "guid": "720fe65c-b119-11f1-b9b5-0f500b15f5f3"
+      },
+      {
+        "role": "main",
+        "title": "The Terror: The Fall of Robespierre (Part 6)",
+        "number": 712,
+        "part": 6,
+        "published": "2026-09-20T23:30:00",
+        "type": "full",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjM2NjUzNiIsInUiOiI4NjMzNDgiLCJkIjoiMTc4OTk0NzE1OSIsImsiOjI2N318ZDRmNmFkNDE4NGU5ZTExZTU4NzgyNGNhYzgzNTMyY2JiNDlhMzJmOThkODkwYjBiYTFkNzI1NjJlZDE1NzdlZQ.mp3",
+        "guid": "9f5d329a-b119-11f1-9cf6-271baefff80b"
+      },
+      {
+        "role": "bonus",
+        "title": "The Man Who Painted The Terror",
+        "number": null,
+        "part": null,
+        "published": "2026-09-22T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjM5NjI5OCIsInUiOiI4NjMzNDgiLCJkIjoiMTc5MDExODQ2MSIsImsiOjI2N318ZTEyMThkMDdhMjZlNGU2YjM0ZWM1OWJmZTU3NTc3Y2I1NGRkYjM1ZjcyYzI3YjU0NmQ5ZTRlMTAxOTlmZDU2MA.mp3",
+        "guid": "eb0e6a80-b5db-11f1-bb5e-1b56781ed62a"
+      },
+      {
+        "role": "bonus",
+        "title": "Why The French Revolution Turned Violent with Simon Schama",
+        "number": null,
+        "part": null,
+        "published": "2026-09-29T23:05:00",
+        "type": "bonus",
+        "audio_url": "https://therestishistory.supportingcast.fm/content/eyJ0IjoicyIsImMiOiIyMjU4NjgwMiIsInUiOiI4NjMzNDgiLCJkIjoiMTc5MDcyMzI1MiIsImsiOjI2N318ZTcwZTliNzY5MjQzZjVkNmIyZjIxNzE5ZmQ1MWZlMTdkZDYyYjE5MjUwNGI4MmEwNjI0YTZiZjlhZmEzYTdjZA.mp3",
+        "guid": "8d0e5a48-bc17-11f1-992f-17e2a63cc2a8"
+      }
+    ]
+  }
+]

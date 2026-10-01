@@ -1,0 +1,14 @@
+# Manual fixes for things the feed doesn't tell us.
+# Matching is by case-insensitive title substring.
+
+# Rename a group (main series or bonus mini-series) containing an episode whose
+# title matches the key. Needed when parts don't share a "Prefix:" in their titles.
+[names]
+"Star-Spangled Banner" = "National Anthems (World Cup Special)"
+"Washington: Hero of the Revolution" = "The Founding Fathers"
+"Empress Matilda" = "Medieval Queens with Helen Castor"
+
+# Force a bonus episode into a named group, or "standalone".
+# Use when the automatic text matching gets it wrong.
+[assign]
+"What Made The Romans Different" = "Roman Civil War"
