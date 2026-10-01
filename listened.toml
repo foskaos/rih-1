@@ -1,0 +1,12 @@
+# Series/groups already listened to. Case-insensitive substring of the group name.
+# The whole group (main parts + attached bonuses) is treated as listened.
+listened = [
+  "First World War",
+  "Greece vs Persia",
+  "Wine",
+  "Samurai",
+  "Incas",
+  "Rome's Greatest Enemy",
+  "Iran",
+  "Joan of Arc",
+]

@@ -5,12 +5,14 @@ from __future__ import annotations
 import argparse
 import json
 import sys
+import tomllib
 from pathlib import Path
 
 from .feed import fetch_feed, parse_feed
 from .grouping import Group, Overrides, group_episodes
 
 DEFAULT_OVERRIDES = Path(__file__).resolve().parent.parent / "overrides.toml"
+DEFAULT_LISTENED = Path(__file__).resolve().parent.parent / "listened.toml"
 
 _KIND_LABEL = {
     "series": "Series",
@@ -30,6 +32,17 @@ def _filter_year(groups: list[Group], year: int | None) -> list[Group]:
         if main or bonus:
             out.append(Group(g.kind, g.name, main=main, bonus=bonus))
     return out
+
+
+def _norm(text: str) -> str:
+    return text.lower().replace("\u2019", "'")
+
+
+def drop_listened(groups: list[Group], path: Path) -> list[Group]:
+    if not path.exists():
+        return groups
+    listened = [_norm(n) for n in tomllib.loads(path.read_text()).get("listened", [])]
+    return [g for g in groups if not any(n in _norm(g.name) for n in listened)]
 
 
 def _ep_line(e, tag: str) -> str:
@@ -96,6 +109,10 @@ def main(argv: list[str] | None = None) -> int:
     p.add_argument("--feed-file", type=Path, help="read the RSS from a file instead of fetching")
     p.add_argument("--save-feed", type=Path, help="also save the fetched RSS to this file")
     p.add_argument("--overrides", type=Path, default=DEFAULT_OVERRIDES)
+    p.add_argument(
+        "--unlistened", action="store_true", help="hide groups listed in listened.toml"
+    )
+    p.add_argument("--listened", type=Path, default=DEFAULT_LISTENED)
     p.add_argument("--format", choices=["md", "json"], default="md")
     p.add_argument("-o", "--output", type=Path, help="write to file instead of stdout")
     p.add_argument(
@@ -117,6 +134,8 @@ def main(argv: list[str] | None = None) -> int:
             print(f"{b.published:%Y-%m-%d} [{how}] {b.title}  ->  {where}", file=sys.stderr)
 
     groups = _filter_year(groups, args.year)
+    if args.unlistened:
+        groups = drop_listened(groups, args.listened)
     out = render_markdown(groups, args.year) if args.format == "md" else render_json(groups)
     if args.output:
         args.output.write_text(out + "\n")
