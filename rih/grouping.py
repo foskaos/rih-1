@@ -27,9 +27,14 @@ from .feed import Episode
 
 ATTACH_WINDOW = timedelta(days=24)
 ATTACH_THRESHOLD = 0.05
+# Weekly listener Q&As titled "RIHC: A, B, and C" cover several unrelated topics,
+# so they only join a series on a strong match.
+GRAB_BAG_THRESHOLD = 0.16
+_GRAB_BAG_RE = re.compile(r", [^,]+,? and ", re.IGNORECASE)
 
 # Title prefixes that label the feed rather than a series ("RIHC: ...").
 _NON_SERIES_PREFIXES = {"rihc"}
+_PART_SUFFIX_RE = re.compile(r"\((?:Part|Ep)\s+\d+\)", re.IGNORECASE)
 _TITLE_NOISE_RE = re.compile(r"\(?\bFULL EPISODE\b\)?", re.IGNORECASE)
 
 _STOPWORDS = set(
@@ -156,10 +161,9 @@ def build_main_groups(episodes: list[Episode]) -> list[Group]:
             for g in reversed(open_series):
                 last = g.main[-1]
                 gap = e.published - last.published
-                same_prefix = e.series_prefix and e.series_prefix == last.series_prefix
-                if last.part == part - 1 and gap <= timedelta(days=21) and (
-                    same_prefix or gap <= timedelta(days=2)
-                ):
+                # Prefixes may change mid-series ("Custer vs. Crazy Horse" parts 1-4,
+                # "Custer's Last Stand" parts 5-8), so only the part sequence matters.
+                if last.part == part - 1 and gap <= timedelta(days=21):
                     target = g
                     break
         if target is None:
@@ -173,7 +177,10 @@ def build_main_groups(episodes: list[Episode]) -> list[Group]:
             g.kind = "standalone"
             g.name = g.main[0].title
         elif g.kind == "series":
-            g.name = _common_prefix_name(g.main) or f"Untitled series: {g.main[0].title}"
+            first = g.main[0]
+            g.name = _common_prefix_name(g.main) or first.series_prefix or (
+                _PART_SUFFIX_RE.sub("", first.title).strip()
+            )
     return groups
 
 
@@ -194,6 +201,16 @@ def _prefix_key(e: Episode) -> str | None:
     return None
 
 
+def _title_tail_key(e: Episode) -> str | None:
+    """'Dracula, by Bram Stoker' -> book club; 'The Trojan War, with Mary Beard' -> guest run."""
+    title = _PART_SUFFIX_RE.sub("", _TITLE_NOISE_RE.sub("", e.title)).strip(" |")
+    if re.search(r", by [A-Z]", title):
+        return "Book Club"
+    if m := re.search(r", with ([^,|]+)$", title):
+        return f"with {m.group(1).strip()}"
+    return None
+
+
 def _mini_series_sentence(e: Episode) -> str | None:
     for sentence in re.split(r"(?<=[.?!])\s+", e.description):
         if re.search(r"\bmini[- ]?series\b|\bclub series\b", sentence, re.IGNORECASE):
@@ -206,7 +223,7 @@ def build_bonus_strands(bonuses: list[Episode]) -> tuple[list[Group], list[Episo
     claimed: set[str] = set()
     strands: list[Group] = []
 
-    for key_fn in (_strand_key, _prefix_key, _mini_series_sentence):
+    for key_fn in (_strand_key, _prefix_key, _title_tail_key, _mini_series_sentence):
         buckets: dict[str, list[Episode]] = defaultdict(list)
         for e in bonuses:
             if e.guid not in claimed and (key := key_fn(e)):
@@ -250,7 +267,8 @@ def attach_bonuses(
             key=lambda t: t[0],
             reverse=True,
         )
-        if scored and scored[0][0] >= ATTACH_THRESHOLD:
+        threshold = GRAB_BAG_THRESHOLD if _GRAB_BAG_RE.search(b.title) else ATTACH_THRESHOLD
+        if scored and scored[0][0] >= threshold:
             score, g = scored[0]
             g.bonus.append(b)
             decisions.append((b, g, score))

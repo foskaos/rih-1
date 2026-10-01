@@ -67,3 +67,18 @@ def test_assign_override():
 def test_clean_description_strips_promo():
     raw = "<p>What happened?</p>*The Rest Is History LIVE* tickets now"
     assert clean_description(raw) == "What happened?"
+
+
+def test_ep_numbering_rihc_full_and_changing_prefix():
+    xml = feed(
+        item("Custer vs. Crazy Horse: Civil War (Part 1)", "Sun, 03 May", number=1),
+        item("Custer vs. Crazy Horse: Sitting Bull (Part 2)", "Sun, 03 May", number=2),
+        item("Custer's Last Stand: Little Bighorn (Part 3)", "Sun, 10 May", number=3),
+        item("The Peasants' Revolt: England Erupts (Ep 1)", "Mon, 01 Jun"),
+        item("The Murder of Richard II (Ep 2)", "Mon, 01 Jun"),
+        item("RIHC: Kings, Queens, and Castles", "Wed, 03 Jun"),
+    )
+    groups = by_name(group_episodes(parse_feed(xml))[0])
+    assert len(groups["Custer vs. Crazy Horse"].main) == 3
+    assert len(groups["The Peasants' Revolt"].main) == 2
+    assert groups["RIHC: Kings, Queens, and Castles"].kind == "bonus"

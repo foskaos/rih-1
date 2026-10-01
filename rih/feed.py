@@ -35,7 +35,7 @@ _BOILERPLATE_MARKERS = (
     "\n--",
 )
 
-_PART_RE = re.compile(r"\(Part\s+(\d+)\)", re.IGNORECASE)
+_PART_RE = re.compile(r"\((?:Part|Ep)\s+(\d+)\)", re.IGNORECASE)
 
 
 @dataclass(frozen=True)
@@ -51,7 +51,8 @@ class Episode:
 
     @property
     def is_bonus(self) -> bool:
-        return self.episode_type == "bonus"
+        # Older club Q&As ("RIHC: ...") were published as full episodes.
+        return self.episode_type == "bonus" or self.title.upper().startswith("RIHC")
 
     @property
     def part(self) -> int | None:
@@ -63,7 +64,7 @@ class Episode:
         """'The Terror' for 'The Terror: Killing God (Part 5)'."""
         if ":" not in self.title:
             return None
-        return self.title.split(":", 1)[0].strip()
+        return self.title.split(":", 1)[0].strip().replace("\u2019", "'")
 
 
 def feed_url() -> str:

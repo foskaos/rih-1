@@ -7,8 +7,13 @@
 "Star-Spangled Banner" = "National Anthems (World Cup Special)"
 "Washington: Hero of the Revolution" = "The Founding Fathers"
 "Empress Matilda" = "Medieval Queens with Helen Castor"
+"Ancient Carthage: Lords of the Sea" = "Carthage"
+"Custer vs. Crazy Horse: Civil War" = "Custer vs. Crazy Horse"
+"The Trojan War, with Mary Beard" = "Mary Beard on the Ancient World"
 
 # Force a bonus episode into a named group, or "standalone".
 # Use when the automatic text matching gets it wrong.
 [assign]
 "What Made The Romans Different" = "Roman Civil War"
+"American Presidents" = "American Presidents from FDR to Trump"
+"Crossroads Of Civilisations" = "standalone"
